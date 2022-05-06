@@ -1,8 +1,11 @@
-![GitHub Brillante](https://github.com/github-light.png#gh-dark-mode-only)
-# Hello stranger :wave:, I'm Carlos Andres.<br> :ninja: Welcome to my code! :technologist:
+<h1 align="center">Hello stranger :wave:</h1>
 
-<p align="right">
-<img src="/assets/myOctocat.png">
+<p align="center">
+    I'm <strong>Carlos Andres</strong> :ninja:.
 </p>
-
-### Language and Tools
+<p align="center">
+    <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="250px">
+</p>
+<p align="center" margin="0">
+    Welcome to my <strong>code!</strong> :technologist:
+</p>
