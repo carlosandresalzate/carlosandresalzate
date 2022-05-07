@@ -1,16 +1,14 @@
 <h1 align="center">Hello stranger :wave:</h1>
 
 <p align="center">
-    I'm <strong>Carlos Andres</strong> :ninja:
+    I'm <strong>Carlos Andres</strong> :ninja: <br> 
+    FullStack Developer
 </p>
 <p align="center">
     <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="250px">
 </p>
-<p align="center" margin="0">
-    Welcome to my <strong>code!</strong> :technologist:
-</p>
 
-## skills
+## Skills
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25px" alt="Git"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="25px" alt="HTML"/>
