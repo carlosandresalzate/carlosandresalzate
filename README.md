@@ -5,7 +5,7 @@
 </p>
        
 <p align="right">
-    I'm <strong>Carlos Andres</strong> :ninja: <br>
+    I'm <strong>Carlos Andres</strong> :musical_score: <br>
     FullStack Developer
 </p>
  
