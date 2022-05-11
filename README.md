@@ -39,6 +39,7 @@
             <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25px" alt="Linux "/>
             <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="25px" alt="Photoshop"/>
             <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="25px" alt="raspberryPi"/>
+            <img align="left" src="	https://www.sublimehq.com/images/sublime_text.png" width="25px">
             <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="25px" alt="Vim"/>
             <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="25px" alt="Visual Studio"/>
             <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25px"  alt="Visual Studio Code"/>
