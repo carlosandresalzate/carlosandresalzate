@@ -4,11 +4,11 @@
 <p align="right"> I'm <strong>Carlos Andres</strong> :ninja: <br> FullStack Developer
 </p>     
 
-<ul align="right" style="list-style-type:none">
-    <li>🎯 2022 Goals: this year I want to learn <img alt="icono de QT framework" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="25px"/>
-    </li>
-    <li>🤓 I’m looking to collaborate on Open-source Projects</li>
-</ul>
+<p align="right" style="list-style-type:none">
+    <p align="right">🎯 2022 Goals: this year I want to learn <img alt="icono de QT framework" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="25px"/>
+    </p>
+    <p align="right">🤓 I’m looking to collaborate on Open-source Projects</p>
+</p>
  
 <h2>Skills</h2>
 
