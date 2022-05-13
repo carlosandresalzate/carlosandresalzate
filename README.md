@@ -1,15 +1,5 @@
 <h1 align="center">Hello stranger :wave:</h1>
 
-<<<<<<< HEAD
-<p align="center">
-    <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="150px">
-</p>
-       
-<p align="right">
-    I'm <strong>Carlos Andres</strong> :musical_score: <br>
-    FullStack Developer
-</p>
-=======
 <img align="left" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="150px">
 <p align="right"> I'm <strong>Carlos Andres</strong> :ninja: <br> FullStack Developer
 </p>     
@@ -19,8 +9,6 @@
     </li>
     <li>🤓 I’m looking to collaborate on Open-source Projects</li>
 </ul>
-
->>>>>>> dev
  
 <h2>Skills</h2>
 
