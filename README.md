@@ -1,5 +1,6 @@
 <h1 align="center">Hello stranger :wave:</h1>
 
+<<<<<<< HEAD
 <p align="center">
     <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="150px">
 </p>
@@ -8,13 +9,29 @@
     I'm <strong>Carlos Andres</strong> :musical_score: <br>
     FullStack Developer
 </p>
+=======
+<img align="left" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="150px">
+<p align="right"> I'm <strong>Carlos Andres</strong> :ninja: <br> FullStack Developer
+</p>     
+
+<ul align="right" style="list-style-type:none">
+    <li>🎯 2022 Goals: this year I want to learn <img alt="icono de QT framework" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="25px"/>
+    </li>
+    <li>🤓 I’m looking to collaborate on Open-source Projects</li>
+</ul>
+
+>>>>>>> dev
  
-## Skills
+<h2>Skills</h2>
+
+<a href="https://www.linkedin.com/in/carlosandresalzate/">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosandresalzate&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&locale=es&card_width=1000" alt="Top Lenguages" />
+</a>
 
 <table>
     <tr>
-        <th>Programming Skillis</th>
-        <th>Software Skills</th>
+        <th>Lenguages</th>
+        <th>Tools</th>
     </tr>
     <tr>
         <td>
@@ -48,3 +65,7 @@
         </td>
     </tr>
 </table>
+
+<a href="https://www.linkedin.com/in/carlosandresalzate/">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=carlosandresalzate&hide=contribs,starts,issues,prs&show_icons=true&theme=gruvbox&include_all_commits=true&hide_border=true&locale=es" alt="Carlos's Github stats" />
+</a>
