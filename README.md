@@ -5,7 +5,7 @@
 </p>     
 
 <p align="right" style="list-style-type:none">
-    <p align="right">🎯 2022 Goals: this year I want to learn <img alt="icono de QT framework" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="25px"/>
+    <p align="right">🎯 2022 Goals: this year I want to learn <img alt="icono de QT framework" src="https://www.qt.io/hubfs/qt-design-system/assets/logos/qt-logo.svg" width="25px"/>
     </p>
     <p align="right">🤓 I’m looking to collaborate on Open-source Projects</p>
 </p>
@@ -28,10 +28,10 @@
             <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="25px" alt="HTML"/>
             <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="25px" alt="Css3"/>
             <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="25px" alt="Javascript"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="25px" alt="jQuery"/>
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="25px" alt="Sass"/>
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25px" alt="NodeJs"/>
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="25px" alt="Bootstrap"/>
+            <img src="https://avatars.githubusercontent.com/u/70142?s=200&v=4" width="25px" alt="jQuery"/>
+            <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="25px" alt="Sass"/>
+            <img align="left" src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" width="25px" alt="NodeJs"/>
+            <img align="left" src="https://avatars.githubusercontent.com/u/2918581?s=200&v=4" width="25px" alt="Bootstrap"/>
             <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width="25px" alt="Bulma"/>
             <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="25px" alt="Material Ui"/>
             <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25px" alt="ReactJs"/>
@@ -51,6 +51,8 @@
             <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25px"  alt="Visual Studio Code"/>
             <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="25" alt="Adobe XD"/>
             <img align="left" src="https://devicons.railway.app/i/windows10.svg" width="25px" alt="windows">
+            <img align="left" alt="icono KDE" src="https://avatars.githubusercontent.com/u/14312869?s=200&v=4" width="25px">
+            <img align="left" width="25px" alt="icono de kate editor" src="https://kate-editor.org/images/kate.svg">
         </td>
     </tr>
 </table>
