@@ -58,5 +58,5 @@
 </table>
 
 <a href="https://www.linkedin.com/in/carlosandresalzate/">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=carlosandresalzate&hide=contribs,starts,issues,prs&show_icons=true&theme=gruvbox&include_all_commits=true&hide_border=true&locale=es" alt="Carlos's Github stats" />
+    <img align="right" src="github-readme-stats-beige-nine-85.vercel.app?username=carlosandresalzate&hide=contribs,starts,issues,prs&show_icons=true&theme=gruvbox&include_all_commits=true&hide_border=true&locale=es" alt="Carlos's Github stats" />
 </a>
