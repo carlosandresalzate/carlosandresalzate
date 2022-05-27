@@ -1,5 +1,6 @@
 <h1 align="center">Hello stranger :wave:</h1>
 
+<<<<<<< HEAD
 <img width="150" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" alt="gif animacion de programador trabajando" align="left">
 <p align="right" width="250"> I'm <strong>Carlos Andres</strong> :ninja: <br> FullStack Developer</p>            
 <p align="right" style="list-style-type:none">
@@ -10,6 +11,23 @@
 
 <h2>Skills</h2>
 
+=======
+
+<a href="https://www.linkedin.com/in/carlosandresalzate/">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosandresalzate&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&locale=es" alt="Top Lenguages" />
+</a>
+<img width="50" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" alt="gif animacion de programador trabajando" align="left">
+<p align="left"> I'm <strong>Carlos Andres</strong> :ninja: <br> FullStack Developer</p>            
+<p align="left" style="list-style-type:none">
+    <p align="left">🎯 2022 Goals: this year I want to learn <img alt="icono de QT framework" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="25px"/>
+    </p>
+    <p align="left">🤓 I’m looking to collaborate on Open-source Projects</p>
+</p>
+
+<h2>Skills</h2>  
+
+
+>>>>>>> dev
 <p align="center">
     <a href="https://www.linkedin.com/in/carlosandresalzate/" align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosandresalzate&show_icons=true&theme=gruvbox&include_all_commits=true&hide_border=true&locale=es&hide=contribs,starts,issues,prs" alt="Carlos's Github stats" />
@@ -51,5 +69,9 @@
             <img align="left" src="https://devicons.railway.app/i/windows10.svg" width="25px" alt="windows">
         </td>
     </tr>
+<<<<<<< HEAD
 </table>
 
+=======
+</table>
+>>>>>>> dev
