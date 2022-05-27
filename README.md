@@ -1,21 +1,25 @@
 <h1 align="center">Hello stranger :wave:</h1>
 
-<img align="left" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="150px">
-<p align="right"> I'm <strong>Carlos Andres</strong> :ninja: <br> FullStack Developer
-</p>     
-
-<p align="right" style="list-style-type:none">
-    <p align="right">🎯 2022 Goals: this year I want to learn <img alt="icono de QT framework" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="25px"/>
-    </p>
-    <p align="right">🤓 I’m looking to collaborate on Open-source Projects</p>
-</p>
- 
-<h2>Skills</h2>
 
 <a href="https://www.linkedin.com/in/carlosandresalzate/">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosandresalzate&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&locale=es&card_width=1000" alt="Top Lenguages" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosandresalzate&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&locale=es" alt="Top Lenguages" />
 </a>
+<img width="50" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" alt="gif animacion de programador trabajando" align="left">
+<p align="left"> I'm <strong>Carlos Andres</strong> :ninja: <br> FullStack Developer</p>            
+<p align="left" style="list-style-type:none">
+    <p align="left">🎯 2022 Goals: this year I want to learn <img alt="icono de QT framework" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="25px"/>
+    </p>
+    <p align="left">🤓 I’m looking to collaborate on Open-source Projects</p>
+</p>
 
+<h2>Skills</h2>  
+
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/carlosandresalzate/" align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosandresalzate&show_icons=true&theme=gruvbox&include_all_commits=true&hide_border=true&locale=es&hide=contribs,starts,issues,prs" alt="Carlos's Github stats" />
+    </a>
+</p>
 <table>
     <tr>
         <th>Lenguages</th>
@@ -53,7 +57,3 @@
         </td>
     </tr>
 </table>
-
-<a href="https://www.linkedin.com/in/carlosandresalzate/">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=carlosandresalzate&hide=contribs,starts,issues,prs&show_icons=true&theme=gruvbox&include_all_commits=true&hide_border=true&locale=es" alt="Carlos's Github stats" />
-</a>
