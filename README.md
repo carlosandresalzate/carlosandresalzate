@@ -6,21 +6,15 @@
     <p align="right">🎯 2022 Goals: this year I want to learn <img alt="icono de QT framework" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="25px"/>
     </p>
     <p align="right">🤓 I’m looking to collaborate on Open-source Projects</p>
-</p>     
-
+</p>
 
 <h2>Skills</h2>
-     
-        
-<a href="https://www.linkedin.com/in/carlosandresalzate/">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosandresalzate&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&locale=es" alt="Top Lenguages" />
-</a>
-       
-<a href="https://www.linkedin.com/in/carlosandresalzate/">
-        <img align="right" src="https://github-readme-stats.vercel.app/api?username=carlosandresalzate&show_icons=true&theme=gruvbox&include_all_commits=true&hide_border=true&locale=es&hide=contribs,starts,issues,prs" alt="Carlos's Github stats" />
-</a>
 
-
+<p align="center">
+    <a href="https://www.linkedin.com/in/carlosandresalzate/" align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosandresalzate&show_icons=true&theme=gruvbox&include_all_commits=true&hide_border=true&locale=es&hide=contribs,starts,issues,prs" alt="Carlos's Github stats" />
+    </a>
+</p>
 <table>
     <tr>
         <th>Lenguages</th>
@@ -58,3 +52,4 @@
         </td>
     </tr>
 </table>
+
