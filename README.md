@@ -41,6 +41,7 @@
         <td>
             <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width="25px" alt="Filezilla"/>
             <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25px" alt="GitHub"/>
+            <img align="left" src="https://www.adobe.com/content/dam/cc/icons/dw_cc_app_RGB.svg" width="25px" alt="Dreamweaver"/>
             <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="25px" alt="Illustrator" />
             <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25px" alt="Linux "/>
             <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="25px" alt="Photoshop"/>
