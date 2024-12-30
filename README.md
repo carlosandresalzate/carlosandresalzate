@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/carlosandresalzate/">
     <img align="right" src="https://git-read-stats.vercel.app/api/top-langs/?username=carlosandresalzate&langs_count=10&layout=compact&theme=gruvbox&hide_border=true&locale=es" alt="Top Lenguages" />
 </a>
-<img width="50" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" alt="gif animacion de programador trabajando" align="left">
+<img width="50" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" alt="gif animación de programador trabajando" align="left">
 <p align="left"> I'm <strong>Carlos Andres</strong> <br> FullStack Developer</p>            
 <p align="left" style="list-style-type:none">
     <p align="left">🎯 2024 Goals: this year I want to learn <img alt="icono de QT framework" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="25px"/>
