@@ -22,12 +22,12 @@ Aquí se mezclan habilidades, experiencias y sueños por cumplir.
 
 <!-- AVATAR PERSONALIZADO PARA MÁS PERSONALIDAD -->
 <p align="right">
-    <img align="right" src="./assets/myOctocat.png" alt="octocat" width="170px"/>
+    <img align="right" src="./assets/myOctocat.png" alt="octocat" width="100px"/>
 </p>
 
 <!-- OBJETIVOS DEL AÑO: LO QUE ESTOY APRENDIENDO AHORA -->
 <!-- 🐍 Python es la meta: porque nunca se deja de aprender -->
-<p align="left" style="list-style-type:none">
+<p align="left">
     <p align="left">🎯 2025 Goals: this year I want to learn <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40px" alt="Icono del lengaje de programacion Python. representa dos serpientes entrelazadas, simbolizando el lenguaje de programación."/>
     </p>
     <!-- COLABORACIÓN: EL OPEN SOURCE COMO MANERA DE DEVOLVER A LA COMUNIDAD -->
@@ -40,8 +40,8 @@ Aquí se mezclan habilidades, experiencias y sueños por cumplir.
 Esta sección representa el arsenal que fui forjando en mi camino tech.
 Lenguajes, frameworks, herramientas y editores que uso a diario.
 =============================================================== -->
-
-<h2>Skills</h2>
+<p> </p>
+<h2 align="center">Skills</h2>
 <!-- habilidades técnicas -->
 
 <table>
