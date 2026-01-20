@@ -1,38 +1,83 @@
 <!-- ============================================================
-👨‍💻 BITÁCORA DE UN FULLSTACK DEV | README CV Y DIARIO DE RUTA
-Este archivo es mi carta de presentación al mundo tech.
-Aquí se mezclan habilidades, experiencias y sueños por cumplir.
+👨‍💻 DEVELOPER LOGBOOK | README CV & TECH JOURNEY
+This file is my public technical profile and learning log.
+Skills, projects and long-term goals live here.
 =============================================================== -->
 
 <!--
-🕹️ [Día 1] Comienza la aventura: Hola mundo, hola código.
-🧠 [Día 100+] Curioso por naturaleza, autodidacta por decisión. Me enamoré de la programación.
-🚀 [Actualidad] Dominando el stack full (JS, Python, C++, diseño, terminales, Linux, microcontroladores).
-🎯 [Meta 2025] Crear una aplicación útil, funcional y abierta al mundo. ¡Vamos por más!
+🕹️ [Day 1] Hello world. Hello code.
+🧠 [Day 100] Curious by nature, self-taught by choice.
+🚀 [Now] Building systems: web, low-level, hardware and creative code.
+🎯 [2025] Build useful, real-world and open projects.
+🎯 [2026] Focus on Lua, LÖVE2D and system-level thinking.
 -->
 
-<!-- TÍTULO CON ONDA -->
 <h1 align="center">Hello stranger</h1>
 
-<!-- GIF DE ENTRADA: UN GUIÑO A LAS NOCHES DE CÓDIGO -->
-<img width="60" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" alt="gif animación de programador trabajando" align="left">
 
-<!-- PRESENTACIÓN CORTA PERO PODEROSA -->
-<p align="left"> I'm <strong>Carlos Andres</strong> <br> FullStack Developer</p>
+<img width="60" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" alt="programmer at night gif" align="left">
 
-<!-- AVATAR PERSONALIZADO PARA MÁS PERSONALIDAD -->
+
+<p align="left"> I'm <strong>Carlos Andres</strong> <br>
+Autodidact software developer building systems, tools and experiments.
+</p>
+
+<!-- CUSTOM AVATAR FOR MORE PERSONALITY -->
 <p align="right">
     <img align="right" src="./assets/myOctocat.png" alt="octocat" width="100px"/>
 </p>
 
-<!-- OBJETIVOS DEL AÑO: LO QUE ESTOY APRENDIENDO AHORA -->
-<!-- 🐍 Python es la meta: porque nunca se deja de aprender -->
-<p align="left">
-    <p align="left">🎯 2025 Goals: this year I want to learn <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40px" alt="Icono del lengaje de programacion Python. representa dos serpientes entrelazadas, simbolizando el lenguaje de programación."/>
-    </p>
-    <!-- COLABORACIÓN: EL OPEN SOURCE COMO MANERA DE DEVOLVER A LA COMUNIDAD -->
-    <p align="left">🤓 I’m looking to collaborate on Open-source Projects</p>
+<br><br>
 
+<!-- ============================================================
+🧭 DEVELOPER PROFILE
+How I think, what I care about, and the kind of problems I enjoy solving.
+=============================================================== -->
+
+<h2 align="left">Developer Profile</h2>
+
+<ul>
+  <li>🧠 Self-taught developer focused on understanding how systems work internally</li>
+  <li>🛠️ Interested in both software and hardware, and how they integrate</li>
+  <li>🎮 Exploring creative coding and game development with Lua + LÖVE2D</li>
+  <li>🌦️ Building real-world systems: sensors, data, automation</li>
+  <li>📚 Clear documentation and maintainable code as a rule, not an extra</li>
+</ul>
+
+<!-- ============================================================
+🎯 CURRENT FOCUS
+=============================================================== -->
+
+<h2 align="left">Current Focus</h2>
+
+<ul>
+  <li>🐍 Deepening Python for scripting, automation and tooling</li>
+  <li>🎮 Learning Lua and LÖVE2D for real-time systems and creative coding</li>
+  <li>🌦️ Developing a personal weather station (hardware + software)</li>
+  <li>🤓 Looking to collaborate on open-source projects</li>
+</ul>
+
+<!-- ============================================================
+🎮 CREATIVE CODING & GAME DEV
+=============================================================== -->
+
+<h2 align="left">Lua & LÖVE2D</h2>
+
+<p>
+  In 2026 my focus with <strong>Lua</strong> and <strong>LÖVE2D</strong> goes beyond making games.  
+  I use them to explore real-time systems through:
+</p>
+
+<ul>
+  <li>🌀 Game loops, state machines and input handling</li>
+  <li>🎨 Rendering pipelines, shaders and visual effects</li>
+  <li>📐 Clean architecture for small and medium-sized projects</li>
+  <li>⚙️ Performance-aware scripting and engine-level thinking</li>
+</ul>
+
+<p>
+  This is not just about games, but about designing <strong>real-time systems</strong>,
+  maintaining structure under complexity and solving problems creatively.
 </p>
 
 <!-- ============================================================
@@ -41,8 +86,10 @@ Esta sección representa el arsenal que fui forjando en mi camino tech.
 Lenguajes, frameworks, herramientas y editores que uso a diario.
 =============================================================== -->
 <p> </p>
-<h2 align="center">Skills</h2>
-<!-- habilidades técnicas -->
+<h2 align="left">Skills</h2>
+<p align="left">
+  I care more about <strong>how tools are used</strong> than how many are listed.
+</p>
 
 <table>
     <tr>
@@ -51,8 +98,6 @@ Lenguajes, frameworks, herramientas y editores que uso a diario.
     </tr>
     <tr>
         <td>
-            <!-- LENGUAJES DE PROGRAMACIÓN Y TECNOLOGÍAS WEB -->
-            <!-- 🛠️ Dominio desde el frontend al backend -->
             <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25px" alt="Git"/>
             <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="25px" alt="HTML"/>
             <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="25px" alt="Css3"/>
@@ -93,12 +138,8 @@ Lenguajes, frameworks, herramientas y editores que uso a diario.
         </td>
     </tr>
 </table>
-<!--
-🧾 Próximos pasos:
-- Mejorar este README como landing personal interactiva.
-- Compartir más proyectos reales.
-- Documentar el progreso con GitHub Projects.
--->
+
+<br>
 
 <!-- ============================================================
 🚀 EPÍLOGO
@@ -106,3 +147,8 @@ Este README es algo más que una lista de íconos.
 Es el mapa de un viaje que recién empieza, pero ya tiene buenas historias.
 Si te interesó lo que viste, ¡hagamos algo juntos!
 =============================================================== -->
+
+<p align="center">
+  This README is not a list of buzzwords.<br>
+  It's a map of what I'm building and learning.
+</p>
