@@ -10,16 +10,16 @@ Skills, projects and long-term goals live here.
 🚀 [Now] Building systems: web, low-level, hardware and creative code.
 🎯 [2025] Build useful, real-world and open projects.
 🎯 [2026] Focus on Lua, LÖVE2D and system-level thinking.
+🎯 [2026] Exploring creative coding and interactive 3D experiences
 -->
 
 <h1 align="center">Hello stranger</h1>
 
-
 <img width="60" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" alt="programmer at night gif" align="left">
 
-
-<p align="left"> I'm <strong>Carlos Andres</strong> <br>
-Autodidact software developer building systems, tools and experiments.
+<p align="left"> My name is <strong>Carlos Andres.</strong> <br>
+I'm a self-taught software developer building tools, systems and creative experiments.<br>
+Currently working on <a href="https://carlosandresalzate.github.io/" target="_blank">my personal website 🌐</a> (coming soon!).
 </p>
 
 <!-- CUSTOM AVATAR FOR MORE PERSONALITY -->
@@ -51,7 +51,8 @@ How I think, what I care about, and the kind of problems I enjoy solving.
 <h2 align="left">Current Focus</h2>
 
 <ul>
-  <li>🐍 Deepening Python for scripting, automation and tooling</li>
+  <li>🧊 Learning <strong>Three.js</strong> through <a href="https://threejs-journey.com/" target="_blank">Three.js Journey</a></li>
+  <li>🐍 Deepening my Python knowledge for scripting, scripting and tooling</li>
   <li>🎮 Learning Lua and LÖVE2D for real-time systems and creative coding</li>
   <li>🌦️ Developing a personal weather station (hardware + software)</li>
   <li>🤓 Looking to collaborate on open-source projects</li>
@@ -93,50 +94,54 @@ Lenguajes, frameworks, herramientas y editores que uso a diario.
 
 <table>
     <tr>
-        <th>Lenguages</th>
-        <th>Tools</th>
+        <th>Core Languages</th>
+        <th>Frontend & Creative Web</th>
+        <th>Backend & Tooling</th>
     </tr>
     <tr>
         <td>
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25px" alt="Git"/>
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="25px" alt="HTML"/>
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="25px" alt="Css3"/>
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="25px" alt="Javascript"/>
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="25px" alt="jQuery"/>
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="25px" alt="Sass"/>
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25px" alt="NodeJs"/>
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="25px" alt="Bootstrap"/>
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width="25px" alt="Bulma"/>
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="25px" alt="Material Ui"/>
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="25px" alt="Angular"/>
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25px" alt="ReactJs"/>
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25px" alt="Python"/>
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="25px" alt="bash"/>
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="25px" alt="CPP" />
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="25px" alt="mysql" />
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="25px" alt="sqlite" />
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="25px" alt="markdown" />
+          <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="25px" alt="Javascript"/>  
+          <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25px" alt="Python"/>
+          <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="25px" alt="CPP" /> 
+          <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="25px" alt="Lua"/>
+          <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="25px" alt="bash"/>
         </td>
         <td>
-            <!-- HERRAMIENTAS DE DISEÑO, DESARROLLO Y DEPLOY -->
-            <!-- 🎨 + 🧠 + 💻 = FULLSTACK REAL -->
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width="25px" alt="Filezilla"/>
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25px" alt="GitHub"/>
-            <img align="left" src="https://www.adobe.com/content/dam/cc/icons/dw_cc_app_RGB.svg" width="25px" alt="Dreamweaver"/>
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="25px" alt="Illustrator" />
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25px" alt="Linux "/>
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="25px" alt="photoshop"/>
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="25px" alt="raspberryPi"/>
-            <img align="left" src="https://www.sublimehq.com/images/sublime_text.png" width="25px" alt="sublime text">
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="25px" alt="Vim"/>
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="25px" alt="Visual Studio"/>
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25px"  alt="Visual Studio Code"/>
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" width="25px" alt="Adobe XD"/>
-            <img align="left" src="https://devicons.railway.app/i/windows10.svg" width="25px" alt="windows">
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="25px" alt="arduino" />
-            <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="25px" alt="figma"/>
+          <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="25px" alt="Angular"/>
+          <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25px" alt="ReactJs"/>
+          <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" width="25px" alt="Three.js" />
+          <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="25px" alt="HTML"/>
+          <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="25px" alt="Css3"/>
+          <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="25px" alt="Sass"/>
+          <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="25px" alt="markdown" />     
+        </td>
+        <td>
+          <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25px" alt="NodeJs"/>
+          <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25px" alt="Git"/>
+          <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="25px" alt="sqlite" />
+          <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="25px" alt="mysql" />
         </td>
     </tr>
+</table>
+<table>
+  <tr>
+    <th>Hardaware & Systems</th>
+    <th>Design & Workflow</th>
+  </tr>
+  <tr>
+    <td>
+      <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25px" alt="Linux "/>
+      <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="25px" alt="arduino" />
+      <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="25px" alt="raspberryPi"/>
+    </td>
+    <td>
+      <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="25px" alt="figma"/>
+      <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="25px" alt="photoshop"/>
+      <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="25px" alt="Illustrator" />
+      <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25px"  alt="Visual Studio Code"/>
+      <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="25px" alt="Vim"/>
+    </td>
+  </tr>
 </table>
 
 <br>
