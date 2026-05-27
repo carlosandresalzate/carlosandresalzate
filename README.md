@@ -52,7 +52,7 @@ How I think, what I care about, and the kind of problems I enjoy solving.
 
 <ul>
   <li>🧊 Learning <strong>Three.js</strong> through <a href="https://threejs-journey.com/" target="_blank">Three.js Journey</a></li>
-  <li>🐍 Deepening my Python knowledge for scripting, scripting and tooling</li>
+  <li>🐍 Deepening my Python knowledge for automation, scripting and tooling</li>
   <li>🎮 Learning Lua and LÖVE2D for real-time systems and creative coding</li>
   <li>🌦️ Developing a personal weather station (hardware + software)</li>
   <li>🤓 Looking to collaborate on open-source projects</li>
@@ -92,7 +92,7 @@ Lenguajes, frameworks, herramientas y editores que uso a diario.
   I care more about <strong>how tools are used</strong> than how many are listed.
 </p>
 
-<table>
+<table align="center">
     <tr>
         <th>Core Languages</th>
         <th>Frontend & Creative Web</th>
@@ -123,7 +123,7 @@ Lenguajes, frameworks, herramientas y editores que uso a diario.
         </td>
     </tr>
 </table>
-<table>
+<table align="center">
   <tr>
     <th>Hardaware & Systems</th>
     <th>Design & Workflow</th>
